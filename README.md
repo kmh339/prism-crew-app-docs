@@ -4,4 +4,4 @@
 ## INFO
 
 Github: [https://github.com/kmh339/prism-crew-app-docs](https://github.com/kmh339/prism-crew-app-docs)  
-Gitbook: [https://app.gitbook.com/s/bljokyAI7Zk09mzde3eP/](https://app.gitbook.com/s/bljokyAI7Zk09mzde3eP/)
+Gitbook: [https://kim-min-ho.gitbook.io/prism-crew-app-docs/](https://kim-min-ho.gitbook.io/prism-crew-app-docs/)
