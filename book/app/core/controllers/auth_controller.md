@@ -1,4 +1,4 @@
-## **Features**
+## Features
 - user 인스턴스를 생성하고 지니고 있는 컨트롤러
 - StateMixin을 통해 user의 상태변화를 변경
 - 초기의 RxStatus = empty
