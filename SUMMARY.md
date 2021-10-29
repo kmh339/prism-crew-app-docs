@@ -4,4 +4,6 @@
 
 ## setting
 * [Overview](book/setting/overview.md)
-* [How To Build](book/setting/how_to_build.md)
+
+## deploy
+* [How To Build](book/deploy/how_to_build.md)
