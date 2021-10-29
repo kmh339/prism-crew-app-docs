@@ -8,4 +8,4 @@
 ## deploy
 * [How To Build](book/deploy/how_to_build.md)
 * [Deploy To Apple](book/deploy/deploy_to_apple.md)
-* [Deploy To Android](book/deploy/deploy_to_android.md)
+* [Deploy To Android](book/deploy/deploy_to_google.md)
