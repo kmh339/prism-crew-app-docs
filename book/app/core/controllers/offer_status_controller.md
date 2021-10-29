@@ -1,6 +1,6 @@
 ## Features
 - offer의 상태관리 컨트롤러
-- offer를 Rx<Offer>로 받아옴
+- offer를 RxOffer로 받아옴
 - offer의 상태에 따라 statusColor, statusText 변경
 
 ## updateReadAt()
