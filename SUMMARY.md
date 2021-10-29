@@ -1,7 +1,7 @@
 # Table of contents..
 
-* [prism-crew-app-guide](README.md)
+* [프리즘 크루앱 가이드](README.md)
 
 ## setting
-* [overview](book/setting/overview.md)
+* [Overview](book/setting/overview.md)
 * [How To Build](book/setting/how_to_build.md)

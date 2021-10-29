@@ -35,3 +35,7 @@ State Management : GetX
 - main.dart <----- 실행지점
 ```
 
+## 참고할만한 링크
+- [GetX](https://pub.dev/packages/get)
+- [GetX를 통한 상태관리](https://velog.io/@chjo0330/Flutter-GetX%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
+- [GetX 상세 공식문서](https://github.com/jonataslaw/getx/tree/master/documentation/kr_KO)
