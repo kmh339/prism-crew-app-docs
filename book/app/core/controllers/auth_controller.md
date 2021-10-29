@@ -3,6 +3,8 @@
 - StateMixin을 통해 user의 상태변화를 변경
 - 초기의 RxStatus = empty
 
+-----
+
 ## _startApp()
 - 앱 시작 시, 호출
 - userProvider를 통해 user 인스턴스 생성
