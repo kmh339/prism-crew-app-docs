@@ -31,6 +31,6 @@
 - offerstatus = aborted
 
 ## finishOffer()
-- offer 완료 ㅔ소드
+- offer 완료 메소드
 - 작업 완료 후 사진을 찍는 메소드 호출
 - afterPhoto가 정상적으로 찍혔으면 다이얼로그를 띄우고 offer의 상태를 completed로 변경
