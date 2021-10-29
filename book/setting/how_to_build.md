@@ -12,3 +12,7 @@ keyPassword=ksdprism
 keyAlias=key
 storeFile=<key.jks 파일의 경로>/key.jks
 ```
+
+# 빌드 커맨드 
+- Android : flutter build appbundle
+- ios : flutter build ios
