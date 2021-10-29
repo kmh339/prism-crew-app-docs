@@ -12,4 +12,5 @@
 
 ## app
 * [core](book/app/core/core.md)
-    * [auth_controller.dart](book/app/core/auth_controller.md)
+    * [controllers](book/app/core/controllers/controllers.md)
+        * [auth_controller.dart](book/app/core/controllers/auth_controller.md)
